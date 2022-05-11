@@ -2,7 +2,13 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
-Content
+Content/Environment
+Content/Weapons
+Content/Sounds
+Content/Maps
+Content/Effects
+Content/ParagonWraith
+Content/Blueprintz
 .vscode
 .vs
 *.VC.db
